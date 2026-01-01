@@ -1,8 +1,8 @@
 <h1 align="center">Warshall Algorithm</h1>
 
 <p align="center">	
-  <a href="https://github.com/Mohammad533643/Dentist_site/blob/main/LICENSE.md" target="_blank">
-    <img alt="License: MIT" src="https://img.shields.io/github/license/Mohammad533643/Dentist_site?color=informational" />
+  <a href="https://github.com/Mohammad533643/Warshall-Algorithm/blob/main/LICENSE" target="_blank">
+    <img alt="License: MIT" src="https://img.shields.io/github/license/Mohammad533643/Warshall-Algorithm?color=informational" />
   </a>
 
   <img alt="Repo size" src="https://img.shields.io/github/repo-size/Mohammad533643/Warshall-Algorithm#?color=informational/">
